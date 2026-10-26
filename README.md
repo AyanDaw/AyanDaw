@@ -5,7 +5,7 @@
 <h2>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="waving hand" />, I'm Ayan</h2>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Python+is+my+main+language+currently;B.Tech+student+at+NSEC;I+learn+by+building+my+own+tools;I+Love+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Python+is+my+main+language+currently;B.Tech+student+at+NSEC;I+learn+by+building+my+own+tools;I+Love+Python;" alt="Typing SVG" />
 </a>
 
 </div>
@@ -72,10 +72,9 @@ B.Tech student at **Netaji Subhash Engineering College**, focused on building pr
 <div align="center">
 
 <a href="https://www.linkedin.com/in/ayan-daw-27a103328/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
-</a>
-<a href="mailto:official.ayan.daw@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48"/>
+</a>&nbsp;<a href="mailto:official.ayan.daw@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="48"/>
 </a>
 
 <br /><br />
